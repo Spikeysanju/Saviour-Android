@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Saviour</string>
+
+    <!--    Notification channel-->
+    <string name="default_notification_channel_id">1</string>
+    <string name="default_notification_channel_name">Saviour</string>
 </resources>
